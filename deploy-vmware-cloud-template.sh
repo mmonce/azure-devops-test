@@ -22,7 +22,7 @@ echo $token
 # "$vracloudurl/csp/gateway/am/api/loggedin/user/orgs" \
 # -H, -k "csp-auth-token: $token"
 
-curl -X GET $vracloudurl/blueprint/api/blueprints -H "Authorization: Bearer $access_token" -k | jq "."
+#curl -X GET $vracloudurl/blueprint/api/blueprints -H "Authorization: Bearer $access_token" -k | jq "."
 
 blueprint_id='d2ba6fe0-3d82-4d03-93ae-556c7ceb89b2'
 image_mapping='ubuntu'
