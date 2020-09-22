@@ -1,5 +1,5 @@
 vracloudurl='https://api.mgmt.cloud.vmware.com'
-apitoken='1lUWrQ0qY3MauPM6KAlXJkeXs5bZUsW2Ghw3zSQb7rAtDLv75SRal4Ft7MnvQfuI'
+apitoken='7L5DrmFNID7fEuOy0txXJuY32rD7sYvyyxCbpmotknuoaezwSCRTdyKq260taj7j'
 blueprint_name='Ubuntu-API'
 api_version='2019-09-12'
 
